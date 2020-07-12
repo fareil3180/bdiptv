@@ -126,7 +126,7 @@ http://103.199.161.254/Content/b4umusic/Live/Channel(B4Umusic)/Stream(01)/index.
 #EXTINF:-1 ,B4U Plus
 http://livecdnh3.tvanywhere.ae/hls/b4uplus/04.m3u8
 #EXTINF:-1 ,BBC World News
-http://103.199.161.254/Content/bbcworld/Live/Channel(BBCworld)/index.m3u8
+https://itpolly.iptv.digijadoo.net/live/bbc_world/playlist.m3u8
 #EXTINF:-1 ,Bhakti Sagar
 http://linear02hun-lh.akamaihd.net/i/bhaktisagar_1@665239/index_2128_av-p.m3u8
 #EXTINF:-1 ,Bhakti Sagar
@@ -1182,7 +1182,7 @@ https://edge01.iptv.digijadoo.net/live/nagorik_tv/chunks.m3u8
 #EXTINF:-1 ,Star Jalsha Movie
 https://edge01.iptv.digijadoo.net/live/jalsha_movies/chunks.m3u8
 #EXTINF:-1 ,Nick Bangla
-http://103.115.159.69:25461/live/asifmtbsl/asifmtbsl/87.m3u8
+https://itpolly.iptv.digijadoo.net/live/nickelodeon/chunks.m3u8
 #EXTINF:-1 ,Nick Sonic Bangla
 https://edge01.iptv.digijadoo.net/live/sonic/chunks.m3u8
 #EXTINF:-1 ,Nick JR.
