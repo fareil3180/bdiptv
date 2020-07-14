@@ -22,13 +22,15 @@ https://itpolly.iptv.digijadoo.net/live/channel_9/chunks.m3u8
 #EXTINF:-1 ,Channel I
 https://itpolly.iptv.digijadoo.net/live/channel_i/chunks.m3u8
 #EXTINF:-1 ,Somoy News
-https://edge4.bioscopelive.com/hls/anonymous/W71ufgJB7T3HqyD-a-KM0w/1594542835/shomoy_tv.m3u8
+https://itpolly.iptv.digijadoo.net/live/somoy_news/chunks.m3u8
+#EXTINF:-1 ,Channel 24
+https://itpolly.iptv.digijadoo.net/live/channel_24/chunks.m3u8
 #EXTINF:-1 ,DBC News
 https://itpolly.iptv.digijadoo.net/live/dbc_news/chunks.m3u8
 #EXTINF:-1 ,News 24
-https://edge4.bioscopelive.com/hls/anonymous/MWCWuv_L_SMNEc3Bg2vf4w/1594543565/news_24_hd.m3u8
+https://itpolly.iptv.digijadoo.net/live/news_24_hd/chunks.m3u8
 #EXTINF:-1 ,Ekattor TV
-https://edge4.bioscopelive.com/hls/anonymous/TBmqaxr_P4T25K5XMbm0Fg/1594542937/ekattur_tv.m3u8
+http://103.214.202.218:8081/live/ekattor-bd/chunks.m3u8
 #EXTINF:-1 ,Deepto TV
 https://itpolly.iptv.digijadoo.net/live/deepto_tv/chunks.m3u8
 #EXTINF:-1 ,Desh TV
