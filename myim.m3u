@@ -108,8 +108,24 @@ http://jiocgehub.jio.ril.com/Dsports_HD/Dsports_HD_800.m3u8
 https://itpolly.iptv.digijadoo.net/live/nat_geo_wild/chunks.m3u8
 #EXTINF:-1 ,NetGeo People
 https://itpolly.iptv.digijadoo.net/live/nat_geo_people/chunks.m3u8
-#EXTINF:-1 ,Star G0ld HD
-http://216.144.250.174/Star_G0ld_HD/tracks-v1a1/mono.m3u8
+#EXTINF:-1,STAR GOLD
+https://itpolly.iptv.digijadoo.net/live/star_gold_intl/chunks.m3u8
+#EXTINF:-1,STAR GOLD 2
+https://itpolly.iptv.digijadoo.net/live/movies_ok/chunks.m3u8
+#EXTINF:-1 ,History
+https://itpolly.iptv.digijadoo.net/live/history_tv_hd/chunks.m3u8
+#EXTINF:-1 ,FOX Life
+https://itpolly.iptv.digijadoo.net/live/fox_life/chunks.m3u8
+#EXTINF:-1 ,National Geo Wild
+https://itpolly.iptv.digijadoo.net/live/nat_geo_wild/chunks.m3u8
+#EXTINF:-1 ,National Geo People
+https://itpolly.iptv.digijadoo.net/live/nat_geo_people/chunks.m3u8
+#EXTINF:-1,Colors Rishtey
+https://itpolly.iptv.digijadoo.net/live/rishtey/chunks.m3u8
+#EXTINF:-1,BBC Lifestyle
+https://itpolly.iptv.digijadoo.net/live/bbc_lifestyle/chunks.m3u8
+#EXTINF:-1,CNBC
+https://itpolly.iptv.digijadoo.net/live/cnbc/chunks.m3u8
 #EXTINF:-1 ,Sony MaX2
 http://216.144.250.174/Sony_MaX_HD_02/playlist.m3u8
 #EXTINF:-1 ,Sony MaX HD
@@ -476,16 +492,6 @@ https://a.jsrdn.com/broadcast/ftv2_2/-0800/c.m3u8
 https://a.jsrdn.com/broadcast/060753d37e/+0000/high/c.m3u8
 #EXTINF:-1 ,Popular Scince
 https://a.jsrdn.com/broadcast/447912f76b/+0000/high/c.m3u8
-#EXTINF:-1 ,History
-https://itpolly.iptv.digijadoo.net/live/history_tv_hd/chunks.m3u8
-#EXTINF:-1 ,FOX Life
-https://itpolly.iptv.digijadoo.net/live/fox_life/chunks.m3u8
-#EXTINF:-1 ,Investigation Discovery
-http://streamidvo.multitvsolution.in/Investigation_Discovery-a/playlist.m3u8
-#EXTINF:-1 ,National Geo Wild
-https://itpolly.iptv.digijadoo.net/live/nat_geo_wild/chunks.m3u8
-#EXTINF:-1 ,National Geo People
-https://itpolly.iptv.digijadoo.net/live/nat_geo_people/chunks.m3u8
 #EXTINF:-1 ,Dsports
 http://jiocgehub.jio.ril.com/Dsports_HD/Dsports_HD_800.m3u8
 #EXTINF:-1 ,PTV Sports
@@ -620,6 +626,10 @@ https://itpolly.iptv.digijadoo.net/live/sa_tv/playlist.m3u8
 https://itpolly.iptv.digijadoo.net/live/colors_bangla_hd/playlist.m3u8
 #EXTINF:-1 ,GAZI TV
 http://itpolly.iptv.digijadoo.net/live/gazi_tv/chunks.m3u8
+#EXTINF:-1,Quran TV
+https://itpolly.iptv.digijadoo.net/live/quran_tv/chunks.m3u8
+#EXTINF:-1,Sunnah TV
+https://itpolly.iptv.digijadoo.net/live/sunnah_tv/chunks.m3u8
 #EXTINF:-1 ,Colors
 https://itpolly.iptv.digijadoo.net/live/colors_hd/chunks.m3u8
 #EXTINF:-1 ,Nat Geo People
@@ -648,6 +658,22 @@ https://itpolly.iptv.digijadoo.net/live/tlc_hd/chunks.m3u8
 https://itpolly.iptv.digijadoo.net/live/star_world/chunks.m3u8
 #EXTINF:-1 ,MTV Beats
 https://itpolly.iptv.digijadoo.net/live/mtv_beats/chunks.m3u8
+#EXTINF:-1,Colors Infinity
+https://itpolly.iptv.digijadoo.net/live/colors_infinity/chunks.m3u8
+#EXTINF:-1,Comedy Central
+https://itpolly.iptv.digijadoo.net/live/comedy_central/chunks.m3u8
+#EXTINF:-1,YTN
+https://itpolly.iptv.digijadoo.net/live/ytn/chunks.m3u8
+#EXTINF:-1,Nat Geo
+https://itpolly.iptv.digijadoo.net/live/nat_geo_in/chunks.m3u8
+#EXTINF:-1,NHK World
+https://itpolly.iptv.digijadoo.net/live/nhk_world/chunks.m3u8
+#EXTINF:-1,Movies Now
+https://itpolly.iptv.digijadoo.net/live/movies_now/chunks.m3u8
+#EXTINF:-1,CGTN
+https://itpolly.iptv.digijadoo.net/live/cctv/chunks.m3u8
+#EXTINF:-1,Cbeebies
+https://itpolly.iptv.digijadoo.net/live/cbeebies_asia/chunks.m3u8
 #EXTINF:-1 ,Discovery india.
 http://streamidvo.multitvsolution.in/DiscoveryEng-a/playlist.m3u8
 #EXTINF:-1 ,92 News
