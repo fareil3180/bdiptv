@@ -5,7 +5,7 @@ https://itpolly.iptv.digijadoo.net/live/sangsad_tv/chunks.m3u8
 https://itpolly.iptv.digijadoo.net/live/btv_world/chunks.m3u8
 #EXTINF:-1 ,Asian TV
 https://itpolly.iptv.digijadoo.net/live/asian_tv/chunks.m3u8
-#EXTINF:-1 ,Gazi Tv
+#EXTINF:-1 tvg-logo="http://gazitv.com/wp-content/uploads/2016/08/Logo.png",Gazi Tv
 https://itpolly.iptv.digijadoo.net/live/gazi_tv/chunks.m3u8
 #EXTINF:-1 ,Maasranga
 https://itpolly.iptv.digijadoo.net/live/maasranga/chunks.m3u8
