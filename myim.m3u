@@ -51,6 +51,12 @@ https://itpolly.iptv.digijadoo.net/live/nagorik_tv/chunks.m3u8
 https://itpolly.iptv.digijadoo.net/live/rtv/playlist.m3u8
 #EXTINF:-1 ,SA TV
 https://itpolly.iptv.digijadoo.net/live/sa_tv/playlist.m3u8
+#EXTINF:-1,Quran TV
+https://itpolly.iptv.digijadoo.net/live/quran_tv/chunks.m3u8
+#EXTINF:-1,Sunnah TV
+https://itpolly.iptv.digijadoo.net/live/sunnah_tv/chunks.m3u8
+#EXTINF:-1 ,Peace TV Bangla
+https://api.visionip.tv/live/ASHTTP/peacetv-peacetv-peacetv-bangla-hsslive-25f-16x9-MB/playlist.m3u8
 #EXTINF:-1 ,Colors Bangla
 https://itpolly.iptv.digijadoo.net/live/colors_bangla_hd/playlist.m3u8
 #EXTINF:-1 ,Star Jalsha
@@ -474,8 +480,6 @@ http://cdn61.liveonlineservices.com/hls/subrang.m3u8
 http://linear08hun-lh.akamaihd.net/i/nazrana_1@673935/index_2128_av-p.m3u8
 #EXTINF:-1 ,Channel Win
 http://cdn.smartstream.video/smartstream-us/channelwinlive/channelwinlive/playlist.m3u8
-#EXTINF:-1 ,Peace TV Bangla
-https://api.visionip.tv/live/ASHTTP/peacetv-peacetv-peacetv-bangla-hsslive-25f-16x9-MB/playlist.m3u8
 #EXTINF:-1 ,Star Jalsha
 https://yuppcatchup.akamaized.net/preview/starjalsha/1800.m3u8
 #EXTINF:-1 ,Colour Bangla
@@ -626,10 +630,6 @@ https://itpolly.iptv.digijadoo.net/live/sa_tv/playlist.m3u8
 https://itpolly.iptv.digijadoo.net/live/colors_bangla_hd/playlist.m3u8
 #EXTINF:-1 ,GAZI TV
 http://itpolly.iptv.digijadoo.net/live/gazi_tv/chunks.m3u8
-#EXTINF:-1,Quran TV
-https://itpolly.iptv.digijadoo.net/live/quran_tv/chunks.m3u8
-#EXTINF:-1,Sunnah TV
-https://itpolly.iptv.digijadoo.net/live/sunnah_tv/chunks.m3u8
 #EXTINF:-1 ,Colors
 https://itpolly.iptv.digijadoo.net/live/colors_hd/chunks.m3u8
 #EXTINF:-1 ,Nat Geo People
