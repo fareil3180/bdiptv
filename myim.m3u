@@ -51,6 +51,8 @@ https://itpolly.iptv.digijadoo.net/live/nagorik_tv/chunks.m3u8
 https://itpolly.iptv.digijadoo.net/live/rtv/playlist.m3u8
 #EXTINF:-1 ,SA TV
 https://itpolly.iptv.digijadoo.net/live/sa_tv/playlist.m3u8
+#EXTINF:-1,Mohona TV
+https://itpolly.iptv.digijadoo.net/live/mohona_tv/playlist.m3u8
 #EXTINF:-1,Quran TV
 https://itpolly.iptv.digijadoo.net/live/quran_tv/chunks.m3u8
 #EXTINF:-1,Sunnah TV
