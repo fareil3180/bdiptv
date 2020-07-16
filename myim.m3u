@@ -1,39 +1,39 @@
 #EXTM3U
-#EXTINF:-1 ,Sangsad TV
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/15/Sangsad_Television_Logo.jpg",Sangsad TV
 https://itpolly.iptv.digijadoo.net/live/sangsad_tv/chunks.m3u8
-#EXTINF:-1 ,BTV World
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f8/Bangladesh_Television_logo.png",BTV World
 https://itpolly.iptv.digijadoo.net/live/btv_world/chunks.m3u8
-#EXTINF:-1 ,Asian TV
+#EXTINF:-1 tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/asian_tv_bd.jpg",Asian TV
 https://itpolly.iptv.digijadoo.net/live/asian_tv/chunks.m3u8
 #EXTINF:-1 tvg-logo="http://gazitv.com/wp-content/uploads/2016/08/Logo.png",Gazi Tv
 https://itpolly.iptv.digijadoo.net/live/gazi_tv/chunks.m3u8
-#EXTINF:-1 ,Maasranga
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/39/Maasranga_Television_Logo.jpg",Maasranga
 https://itpolly.iptv.digijadoo.net/live/maasranga/chunks.m3u8
-#EXTINF:-1 ,ATN Bangla
+#EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-GXdlFshR5WE/VhyWOUVeB0I/AAAAAAAABP8/3QQypKE6c0o/w1200-h630-p-k-no-nu/atn-bangla.jpg",ATN Bangla
 https://itpolly.iptv.digijadoo.net/live/atn_bangla/chunks.m3u8
-#EXTINF:-1 ,ATN News
+#EXTINF:-1 tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/atn_news.jpg",ATN News
 https://itpolly.iptv.digijadoo.net/live/atn_news/chunks.m3u8
-#EXTINF:-1 ,Banglavision TV
+#EXTINF:-1 tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/bangla_vision.jpg",Banglavision TV
 https://itpolly.iptv.digijadoo.net/live/bangla_vision/chunks.m3u8
-#EXTINF:-1 ,Boishakhi TV
+#EXTINF:-1 tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/boishakhi.jpg",Boishakhi TV
 https://itpolly.iptv.digijadoo.net/live/boishakhi_tv/chunks.m3u8
-#EXTINF:-1 ,Channel 9
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRd966m-SyFqHxAasRe15tnTbF7M-pTqSxyXB52gZWxC2wEbSIO&usqp=CAU",Channel 9
 https://itpolly.iptv.digijadoo.net/live/channel_9/chunks.m3u8
-#EXTINF:-1 ,Channel I
+#EXTINF:-1 tvg-logo="https://www.channelionline.com/wp-content/uploads/2019/07/channel-i-logo-1.png",Channel I
 https://itpolly.iptv.digijadoo.net/live/channel_i/chunks.m3u8
-#EXTINF:-1 ,Jamuna TV
+#EXTINF:-1 tvg-logo="https://www.jamuna.tv/wp-content/themes/jtv-news/img/logo.png",Jamuna TV
 https://itpolly.iptv.digijadoo.net/live/jamuna_tv/chunks.m3u8
-#EXTINF:-1 ,Somoy News
+#EXTINF:-1 tvg-logo="https://www.freeetv.com/images/03_logo/Somoy_News_Bangladesh.jpg",Somoy News
 https://itpolly.iptv.digijadoo.net/live/somoy_news/chunks.m3u8
-#EXTINF:-1 ,Channel 24
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/aVQLJ-NBIWE/maxresdefault.jpg",Channel 24
 https://itpolly.iptv.digijadoo.net/live/channel_24/chunks.m3u8
-#EXTINF:-1 ,DBC News
+#EXTINF:-1 tvg-logo="https://dbcnews.tv/img/dbc.png",DBC News
 https://itpolly.iptv.digijadoo.net/live/dbc_news/chunks.m3u8
-#EXTINF:-1 ,News 24
+#EXTINF:-1 tvg-logo="https://www.allbanglanewspapersbd.com/img-files/tvnews/news24bd.png",News 24
 https://itpolly.iptv.digijadoo.net/live/news_24_hd/chunks.m3u8
-#EXTINF:-1 ,Ekattor TV
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/5d/Ekattor_TV_logo.png",Ekattor TV
 http://103.214.202.218:8081/live/ekattor-bd/chunks.m3u8
-#EXTINF:-1 ,Deepto TV
+#EXTINF:-1 tvg-logo="https://www.deepto.tv/img/toplogo.png",Deepto TV
 https://itpolly.iptv.digijadoo.net/live/deepto_tv/chunks.m3u8
 #EXTINF:-1 ,Desh TV
 https://itpolly.iptv.digijadoo.net/live/desh_tv/chunks.m3u8
