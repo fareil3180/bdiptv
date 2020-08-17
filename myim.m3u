@@ -1244,8 +1244,26 @@ https://sony247channels.akamaized.net/hls/live/2004801/SonySIXHD/master.m3u8?hdn
 https://sony247channels.akamaized.net/hls/live/2004806/SONYESPNSD/master.m3u8?hdnea=exp=1594424839~acl=/*~hmac=83f1aab290adcecd58296efe621ec7c8ed08d086c488a97c87cf62465105997c&amp;__nn__=5606168722001&amp;hdne
 #EXTINF:-1 ,IN: SONY SAB
 http://ddn.amrbd.com:8081/live/sonysab/playlist.m3u8
-#EXTINF:-1 ,IN: SONY SIX HD
-http://ddn.amrbd.com:8081/live/sonysix/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/20/Sony_SIX_logo.png",SONY SIX HD
+http://103.205.133.14/hls/sonysix.m3u8
+#EXTINF:-1 tvg-logo="https://s4.gifyu.com/images/image8119df5b2b32fa2b.png" group-title="FTPBD", Star Sports 1
+http://otv.ftpbd.net/streams/104/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/CRYe7Gt.png" group-title="FTPBD", Star Sports 2 HD
+http://otv.ftpbd.net/streams/116/index.m3u8
+#EXTINF:-1 tvg-logo="https://s4.gifyu.com/images/imagef8fd29c06d7b96e6.png" group-title="FTPBD", Star Sports Select 1 HD
+http://otv.ftpbd.net/streams/113/index.m3u8
+#EXTINF:-1 tvg-logo="https://s4.gifyu.com/images/image04e6530896d42919.png" group-title="FTPBD", Star Sports Select 2 HD
+http://otv.ftpbd.net/streams/114/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/e0tD66l.png" group-title="FTPBD", Sony Six
+http://otv.ftpbd.net/streams/106/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/QTRyKv9.png" group-title="FTPBD", Sony Ten 1
+http://otv.ftpbd.net/streams/105/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Nzue5Z0.png" group-title="ICC 2", Sony Ten 2
+http://103.205.133.14/hls/ten2.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/QTRyKv9.png" group-title="EBox2", Sony Ten 2 HD
+http://103.49.168.172:8081/ebox/ten2/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/E6iCIUM.png" group-title="ICC 2", Sony Ten 3
+http://103.205.133.14/hls/ten3.m3u8
 #EXTINF:-1 ,IN: SONY SIX HD
 http://175.41.46.16:8081/hls/2.m3u8
 #EXTINF:-1 ,IN: SONY TEN 1 HD
