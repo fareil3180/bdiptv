@@ -91,8 +91,12 @@ https://itpolly.iptv.digijadoo.net/live/star_gold_intl/chunks.m3u8
 https://itpolly.iptv.digijadoo.net/live/movies_ok/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/in/Colors.in.png",Colors HD
 https://itpolly.iptv.digijadoo.net/live/colors_hd/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://banner2.cleanpng.com/20180622/qfj/kisspng-bangladesh-bengali-discovery-channel-television-ch-bangla-5b2d11b502b8e6.8212373115296803090112.jpg",Discovery Bangla
+https://streamitv.multitvsolution.in/idvo/discoverybengali.m3u8
 #EXTINF:-1 tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/zee_bangla.jpg",Zee Bangla
 https://itpolly.iptv.digijadoo.net/live/zee_bangla/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Sony_Aath_logo.svg/800px-Sony_Aath_logo.svg.png",SONY AATH
+http://103.205.133.14/hls/sony8.m3u8
 #EXTINF:-1 tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/rishtey_uk.jpg",Colors Rishtey
 https://itpolly.iptv.digijadoo.net/live/rishtey/chunks.m3u8
 #EXTINF:-1 tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/nickelodeon_latino_sur.jpg",Nick Bangla
@@ -1159,8 +1163,6 @@ https://stream.simpaisa.com/pitvlive2/vsh3/playlist.m3u8?checkedby:iptvcat.com
 https://stream.simpaisa.com/pitvlive2/waseeb3/playlist.m3u8?checkedby:iptvcat.com
 #EXTINF:-1 ,Zindagi TV
 https://5ad386ff92705.streamlock.net/live_transcoder/ngrp:zindagitv.stream_all/chunklist.m3u8?checkedby:iptvcat.com
-#EXTINF:-1 tvg-logo="https://banner2.cleanpng.com/20180622/qfj/kisspng-bangladesh-bengali-discovery-channel-television-ch-bangla-5b2d11b502b8e6.8212373115296803090112.jpg",Discovery Bangla
-https://streamitv.multitvsolution.in/idvo/discoverybengali.m3u8
 #EXTINF:-1 ,Channel T1
 http://128.199.212.160/channelt1/1080/index.m3u8
 #EXTINF:-1 ,Channel-S
@@ -1292,8 +1294,6 @@ http://103.205.133.19/hls/ten3.m3u8
 http://channels.ooguy.com:80/auth?channel=SonyTvHdIndia&type=index.m3u8&authorization=RnJFZUFjQ2VTcw==
 #EXTINF:-1 ,UK: SONY TV HD
 http://channels.ooguy.com:80/auth?channel=SonyTvHdUk&type=index.m3u8&authorization=RnJFZUFjQ2VTcw==
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Sony_Aath_logo.svg/800px-Sony_Aath_logo.svg.png",SONY AATH
-http://103.205.133.14/hls/sony8.m3u8
 #EXTINF:-1 ,USA: SONY TV HD
 http://ok2.se:8000/live/e4f1F1Uvb5cccME2H/7deeF1UDa6PNxFp03/407.m3u8
 #EXTINF:-1 ,Sony Crime
