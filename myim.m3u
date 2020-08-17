@@ -1273,7 +1273,7 @@ http://channels.ooguy.com:80/auth?channel=SonyTvHdIndia&type=index.m3u8&authoriz
 #EXTINF:-1 ,UK: SONY TV HD
 http://channels.ooguy.com:80/auth?channel=SonyTvHdUk&type=index.m3u8&authorization=RnJFZUFjQ2VTcw==
 #EXTINF:-1 ,IN: SONY AATH
-http://137.59.155.253:8088/hls/Zee_Cinema.m3u8
+http://103.205.133.14/hls/sony8.m3u8
 #EXTINF:-1 ,USA: SONY TV HD
 http://ok2.se:8000/live/e4f1F1Uvb5cccME2H/7deeF1UDa6PNxFp03/407.m3u8
 #EXTINF:-1 ,Sony Crime
